@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"path": "../../../tasks/vanilla-js-online-store-main"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "food project"
+  }
+}

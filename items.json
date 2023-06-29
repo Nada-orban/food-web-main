@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1 ,
+        "title": "Pizza Salami ",
+        "price": 16.99,
+        "image": "./images/item-1.jpg" 
+    },
+    {
+        "id": 2 ,
+        "title": "Pizza Mushrooms",
+        "price": 15.99,
+        "image": "./images/item-2.jpg" 
+        
+    },
+    {
+        "id": 3 ,
+        "title": "Pizza Mozzarella",
+        "price": 12.99,
+        "image":  "./images/item-3.jpg" 
+
+    },
+    {
+        "id": 4 ,
+        "title": "Pizza Margherita",
+        "price": 13.99,
+        "image": "./images/item-4.jpg" 
+        
+    },
+    {
+        "id": 5 ,
+        "title": "Turkey Burger",
+        "price": 10.99,
+        "image":"./images/item-5.jpg" 
+        
+    },
+    {
+        "id": 6 ,
+        "title": "Chicken Burger ",
+        "price": 13.99,
+        "image":"./images/item-6.jpeg" 
+        
+    },
+    {
+        "id":7 ,
+        "title": "Cheese Burger",
+        "price": 10.99,
+        "image":"./images/item-7.jpg" 
+        
+    },
+    {
+        "id": 8,
+        "title": "Beef Burger",
+        "price": 15.99,
+        "image": "./images/item-8.jpg" 
+        
+    }
+    ]
